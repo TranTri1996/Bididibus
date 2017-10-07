@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>dhct_logo.jpg</file>
+        <file>LOGODHCT.PNG</file>
+    </qresource>
+</RCC>
